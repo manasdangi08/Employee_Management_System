@@ -44,7 +44,7 @@ Before running this project, ensure you have the following installed:
 ### 2. Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/employee-management-system.git](https://github.com/your-username/employee-management-system.git)
+  [  git clone [https://github.com/your-username/employee-management-system.git](https://github.com/your-username/employee-management-system.git)](https://github.com/manasdangi08/Employee_Management_System.git)
     ```
 2.  Navigate to the project directory:
     ```bash
